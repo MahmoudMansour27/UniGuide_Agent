@@ -1,3 +1,4 @@
 google-genai
 pydantic
 crewai
+pysqlite3-binary
