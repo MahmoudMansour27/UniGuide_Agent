@@ -1,4 +1,4 @@
 pydantic
-crewai==0.60.0
+crewai
 pysqlite3-binary
-chromadb
+chromadb==0.5.23
