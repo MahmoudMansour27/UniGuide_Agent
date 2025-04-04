@@ -1,2 +1,3 @@
 pydantic
 crewai
+pysqlite3-binary
